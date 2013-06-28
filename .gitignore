@@ -22,6 +22,5 @@ vendor/zf-commons
 
 data/DoctrineORMModule/
 
-public/components/bootstrap-assets
-public/components/jquery
-public/components/html5shiv
+public/components/
+node_modules/

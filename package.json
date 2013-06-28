@@ -1,0 +1,21 @@
+{
+  "name": "fussi-js",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "scripts": {
+      "postinstall": "node_modules/.bin/bower install"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-cli": "*",
+    "grunt": "*",
+    "karma": "*",
+    "grunt-karma": "*",
+    "phantomjs": "*",
+    "bower": "*"
+  },
+  "readmeFilename": "README.md"
+}
