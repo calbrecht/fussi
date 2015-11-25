@@ -7,7 +7,7 @@
     "components"
   ],
   "dependencies": {
-    "bootstrap-assets": "*",
+    "bootstrap": "*",
     "html5shiv": "*"
   },
   "devDependencies": {
